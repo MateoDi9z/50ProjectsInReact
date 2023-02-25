@@ -1,5 +1,6 @@
 # My 50 projects in 50 days in React!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f9e50d84-9c84-4f53-ab13-487b9ae739d7/deploy-status)](https://my50reactprojects.netlify.app/)
 A set of mini projects to learn React & web development
 
 ## Project List
